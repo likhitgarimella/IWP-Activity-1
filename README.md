@@ -1,4 +1,7 @@
-# Html
-Introduction to HTML &amp; Intermediate HTML
+<h1 align="center">
+IWP Lab Activity-1
+</h1>
 
-https://likhitgarimella.github.io/Html/
+<h4 align="center">
+https://likhitgarimella.github.io/IWP-Activity-1/
+</h4>
